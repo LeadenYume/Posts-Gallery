@@ -1,0 +1,30 @@
+﻿
+.main {
+    margin-top: 20px;
+    width: 600px;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: end;
+    align-content: end;
+}
+
+.post {
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 7px;
+    background: var(--color-background1);
+}
+
+.postName {
+    font-weight: 500;
+    font-size: 17px;
+}

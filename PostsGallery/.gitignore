@@ -26,9 +26,3 @@ yarn-error.log*
 **/bin
 **/build
 **/obj
-PostsGallery/PostsGallery.csproj.user
-PostsGallery/Properties/PublishProfiles/FTPProfile.pubxml
-PostsGallery/Properties/PublishProfiles/FTPProfile.pubxml.user
-PostsGallery/appsettings.json
-PostsGallery/Properties/PublishProfiles/FolderProfile.pubxml.user
-PostsGallery/Properties/PublishProfiles/FolderProfile.pubxml

@@ -1,0 +1,17 @@
+.app {
+  height: 100vh;
+  width: 100vw;
+  flex-direction: row;
+  background: var(--color-background2);
+}
+
+.chart{
+  width: 70%;
+  height: 100%;
+}
+
+.list{
+  width: 30%;
+  height: 100%;
+  background: #222222;
+}

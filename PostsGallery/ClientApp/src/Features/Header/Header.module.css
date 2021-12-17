@@ -1,0 +1,18 @@
+﻿
+.main{
+    min-height: 50px;
+    padding-top: 5px;
+    padding-bottom: 3px;
+    padding-left: 40px;
+    padding-right: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    background: var(--color-background1);
+}
+
+.logo {
+    margin: 0;
+    line-height: 0;
+}
